@@ -1,2 +1,3 @@
 # ahmad
-this is my first repositry
+This is my first repositry\n
+Auther ahmad bilal
